@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectTDD.Tests\\SimpleProjectTDD.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectClassLibrary\\SimpleProjectClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectClassLibrary\\SimpleProjectClassLibrary.csproj",
+        "projectName": "SimpleProjectClassLibrary",
+        "projectPath": "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectClassLibrary\\SimpleProjectClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\dthew\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectClassLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dthew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectTDD.Tests\\SimpleProjectTDD.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectTDD.Tests\\SimpleProjectTDD.Tests.csproj",
+        "projectName": "SimpleProjectTDD.Tests",
+        "projectPath": "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectTDD.Tests\\SimpleProjectTDD.Tests.csproj",
+        "packagesPath": "C:\\Users\\dthew\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectTDD.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dthew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectClassLibrary\\SimpleProjectClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectClassLibrary\\SimpleProjectClassLibrary.csproj"
+              },
+              "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectTDD\\SimpleProjectTDD.csproj": {
+                "projectPath": "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectTDD\\SimpleProjectTDD.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectTDD\\SimpleProjectTDD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectTDD\\SimpleProjectTDD.csproj",
+        "projectName": "SimpleProjectTDD",
+        "projectPath": "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectTDD\\SimpleProjectTDD.csproj",
+        "packagesPath": "C:\\Users\\dthew\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectTDD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dthew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectClassLibrary\\SimpleProjectClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\dthew\\source\\repos\\SimpleProjectTDD\\SimpleProjectClassLibrary\\SimpleProjectClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

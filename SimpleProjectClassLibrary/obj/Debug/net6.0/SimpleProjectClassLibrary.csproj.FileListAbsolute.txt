@@ -1,0 +1,12 @@
+C:\Users\dthew\source\repos\SimpleProjectTDD\SimpleProjectClassLibrary\bin\Debug\net6.0\SimpleProjectClassLibrary.deps.json
+C:\Users\dthew\source\repos\SimpleProjectTDD\SimpleProjectClassLibrary\bin\Debug\net6.0\SimpleProjectClassLibrary.dll
+C:\Users\dthew\source\repos\SimpleProjectTDD\SimpleProjectClassLibrary\bin\Debug\net6.0\SimpleProjectClassLibrary.pdb
+C:\Users\dthew\source\repos\SimpleProjectTDD\SimpleProjectClassLibrary\obj\Debug\net6.0\SimpleProjectClassLibrary.csproj.AssemblyReference.cache
+C:\Users\dthew\source\repos\SimpleProjectTDD\SimpleProjectClassLibrary\obj\Debug\net6.0\SimpleProjectClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dthew\source\repos\SimpleProjectTDD\SimpleProjectClassLibrary\obj\Debug\net6.0\SimpleProjectClassLibrary.AssemblyInfoInputs.cache
+C:\Users\dthew\source\repos\SimpleProjectTDD\SimpleProjectClassLibrary\obj\Debug\net6.0\SimpleProjectClassLibrary.AssemblyInfo.cs
+C:\Users\dthew\source\repos\SimpleProjectTDD\SimpleProjectClassLibrary\obj\Debug\net6.0\SimpleProjectClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dthew\source\repos\SimpleProjectTDD\SimpleProjectClassLibrary\obj\Debug\net6.0\SimpleProjectClassLibrary.dll
+C:\Users\dthew\source\repos\SimpleProjectTDD\SimpleProjectClassLibrary\obj\Debug\net6.0\refint\SimpleProjectClassLibrary.dll
+C:\Users\dthew\source\repos\SimpleProjectTDD\SimpleProjectClassLibrary\obj\Debug\net6.0\SimpleProjectClassLibrary.pdb
+C:\Users\dthew\source\repos\SimpleProjectTDD\SimpleProjectClassLibrary\obj\Debug\net6.0\ref\SimpleProjectClassLibrary.dll
